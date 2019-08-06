@@ -1,6 +1,6 @@
 # 分隔框-中
 
-![](../.gitbook/assets/fen-ge-lan-zhong%20%282%29.png)
+![](../.gitbook/assets/fen-ge-lan-zhong%20%281%29.png)
 
 此部分主要显示CNT动作文件中的编织信息，当前编织度目的工艺段设定值。 度目实际值需要在机头测试画面中显示（实际值=设定值+修正值）
 
