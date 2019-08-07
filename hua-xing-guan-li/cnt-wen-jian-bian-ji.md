@@ -2,11 +2,11 @@
 
 ![](https://raw.githubusercontent.com/HQwangyun/HQ-image/master/CNT%E6%96%87%E4%BB%B6%E7%BC%96%E8%BE%91.png)
 
-**触摸：**触笔单、双击选择CNT文件编辑字符区，进入CNT文件编辑页。编辑、查看当前正在编织花样的控制资料\(\*.CNT\)
+**触摸**：触笔单、双击选择CNT文件编辑字符区，进入CNT文件编辑页。
 
 **控制资料是编织资料中的主要资料，用于选针及读取其他需要使用的资料等。**
 
-**触摸：**进入编辑页面后，触笔单击所需修改区，弹出设置软键盘或修改窗口，根据需要修改。
+进入编辑页面后：
 
 | 行功能键 | 说明 |
 | :---: | :---: |
@@ -20,6 +20,8 @@
 | 查询 | 保留 |
 
 ### **动作指令选择**
+
+**触摸**：触笔单击所需修改区，弹出设置软键盘或修改窗口，根据需要修改。
 
 ![](https://raw.githubusercontent.com/HQwangyun/HQ-image/master/%E5%8A%A8%E4%BD%9C%E6%8C%87%E4%BB%A4%E9%80%89%E6%8B%A9.png)
 
@@ -39,7 +41,7 @@
 
 ### **摇床指令选择**
 
-![](../.gitbook/assets/yao-chuang-zhi-ling-xuan-ze.png)
-
 **触摸：**触笔单击“摇床”后的方格，弹出摇床指令选择，单、双击选择需要的摇床方式。
+
+![](../.gitbook/assets/yao-chuang-zhi-ling-xuan-ze.png)
 

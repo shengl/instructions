@@ -1,5 +1,6 @@
 # 页面-2
 
+[送纱器启动时间](ye-mian-1.md#song-sha-qi-qi-dong-shi-jian)  
 [主罗拉卷布方式](ye-mian-2.md#zhu-luo-la-juan-bu-fang-shi)  
 [主罗拉卷布系数](ye-mian-2.md#zhu-luo-la-juan-bu-xi-shu)  
 [二段度目差](ye-mian-2.md#er-duan-du-mu-cha)  
@@ -11,6 +12,16 @@
 [收针优化使能](ye-mian-2.md#shou-zhen-you-hua-shi-neng)
 
 ## 帮助说明
+
+### **送纱器启动时间：**
+
+设定当力矩送纱器使能设置打开，拉杆启动时机头延时启动时间间隔\(送纱力矩电机先行启动时间\)。  
+单位：ms\(毫秒\)  
+默认：2000\(ms\)  
+注：1秒=1000毫秒
+
+按键：按回车键，显示白色下标红色字体，输入所需数值，按回车键结束。  
+触摸：触笔单击项目数值区，弹出软键盘，输入所需数值，单击ENTER键结束。
 
 ### **主罗拉卷布方式：**
 
