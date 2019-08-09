@@ -1,7 +1,7 @@
 # Table of contents
 
 * [简介](README.md)
-* [运行](jin-ru-bian-zhi/README.md)
+* [进入编织](jin-ru-bian-zhi/README.md)
   * [分隔框-上](jin-ru-bian-zhi/fen-ge-kuang-shang.md)
   * [分隔框-中](jin-ru-bian-zhi/fen-ge-kuang-zhong.md)
   * [分隔框-下](jin-ru-bian-zhi/fen-ge-kuang-xia.md)
@@ -13,7 +13,6 @@
   * [文件输出](wen-jian-guan-li/wen-jian-shu-chu.md)
   * [花型选择](wen-jian-guan-li/hua-xing-xuan-ze.md)
   * [参数复制](wen-jian-guan-li/can-shu-fu-zhi.md)
-  * [参数备份](wen-jian-guan-li/can-shu-bei-fen.md)
   * [花型删除](wen-jian-guan-li/hua-xing-shan-chu.md)
   * [其他功能](wen-jian-guan-li/qi-ta-gong-neng/README.md)
     * [工作参数输入](wen-jian-guan-li/qi-ta-gong-neng/gong-zuo-can-shu-shu-ru.md)
@@ -35,6 +34,7 @@
       * [伺服参数导出](wen-jian-guan-li/qi-ta-gong-neng/si-fu-can-shu-wei-hu/si-fu-can-shu-dao-chu.md)
       * [伺服参数导入](wen-jian-guan-li/qi-ta-gong-neng/si-fu-can-shu-wei-hu/si-fu-can-shu-dao-ru.md)
       * [返回＜-](wen-jian-guan-li/qi-ta-gong-neng/si-fu-can-shu-wei-hu/fan-hui.md)
+  * [参数备份](wen-jian-guan-li/can-shu-bei-fen.md)
 * [花型管理](hua-xing-guan-li/README.md)
   * [CNT文件编辑](hua-xing-guan-li/cnt-wen-jian-bian-ji.md)
   * [PAT文件编辑](hua-xing-guan-li/untitled-2.md)
