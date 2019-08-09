@@ -77,4 +77,5 @@
 * [系统日志](xi-tong-ri-zhi.md)
 * [附录1](fu-lu-1.md)
 * [附录2](fu-lu-2.md)
+* [附录3](fu-lu-3.md)
 
