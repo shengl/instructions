@@ -23,6 +23,8 @@
 
 ### 剪刀夹子设置
 
+![](../.gitbook/assets/jian-dao-jia-zi-she-zhi%20%281%29.png)
+
 点击按钮`F5：参数设置` 进入界面。
 
 #### 左剪夹使能：
