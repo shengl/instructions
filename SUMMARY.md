@@ -51,7 +51,7 @@
   * [探针相关参数](xi-tong-can-shu/tan-zhen-xiang-guan-can-shu.md)
   * [起底板相关参数](xi-tong-can-shu/qi-di-ban-xiang-guan-can-shu.md)
   * [网络相关参数](xi-tong-can-shu/wang-luo-xiang-guan-can-shu.md)
-  * [下边框](xi-tong-can-shu/untitled/README.md)
+  * [功能按键](xi-tong-can-shu/untitled/README.md)
     * [其他项目](xi-tong-can-shu/untitled/qi-ta-xiang-mu.md)
 * [工作参数](gong-zuo-can-shu/README.md)
   * [页面-1](gong-zuo-can-shu/ye-mian-1.md)
