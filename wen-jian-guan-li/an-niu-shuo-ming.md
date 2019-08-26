@@ -2,12 +2,10 @@
 
 ## 排序操作
 
+![](../.gitbook/assets/a1%20%281%29.PNG)
+
 **触摸**：单击图标打开  
 **按键**：按 **F1** 键打开，方向键选择排序方式，按 **Enter** 键确认
-
-![](../.gitbook/assets/a1.PNG)
-
-![](../.gitbook/assets/a1%20%281%29.PNG)
 
 ![ &#xFF08;&#x70B9;&#x51FB;&#x540E;&#x663E;&#x793A;&#x6392;&#x5E8F;&#x64CD;&#x4F5C;&#x754C;&#x9762;&#xFF09;](../.gitbook/assets/wen-jian-pai-xu-gong-neng.png)
 
@@ -20,49 +18,37 @@
 
 ## 返回上一级目录
 
-* 长按图标 5 秒直接返回根目录
-
 ![](../.gitbook/assets/a2%20%283%29.PNG)
 
-![](../.gitbook/assets/a2%20%281%29.PNG)
+* 长按图标 5 秒直接返回根目录
 
 **触摸**：单击图标打开
 
 ## 显示文件全名
 
+![](../.gitbook/assets/a3%20%283%29.PNG)
+
 **触摸**：单击图标打开，预留功能将来将详细显示文件属性。
-
-![](../.gitbook/assets/a3%20%285%29.PNG)
-
-![](../.gitbook/assets/a3%20%281%29.PNG)
 
 ## 多选模式： 触发后，可同时选择多个文件进行复制、删除等操作。
 
-**触摸**：单击图标打开。
+![](../.gitbook/assets/a4%20%281%29.PNG)
 
-![](../.gitbook/assets/a4%20%282%29.PNG)
+**触摸**：单击图标打开。
 
 ## 选中的区域全屏显示，预留功能。
 
-![](../.gitbook/assets/a4.PNG)
+![](../.gitbook/assets/a5%20%282%29.PNG)
 
 **触摸**：单击图标打开。
 
-![](../.gitbook/assets/a5%20%282%29.PNG)
-
 ## 上、下滚屏按键
-
-**触摸：**单击上、下图标移动。
-
-![](../.gitbook/assets/a5.PNG)
 
 ![](../.gitbook/assets/b7%20%282%29.PNG)
 
+**触摸：**单击上、下图标移动。
+
 ## 系统内存空间与当前路径文件个数查询
-
-![](../.gitbook/assets/b7%20%281%29.PNG)
-
-![](../.gitbook/assets/image%20%281%29.png)
 
 ![](../.gitbook/assets/file.png)
 
