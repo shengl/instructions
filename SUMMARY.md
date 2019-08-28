@@ -75,7 +75,8 @@
   * [设置系统时间](xi-tong-wei-hu/she-zhi-xi-tong-shi-jian.md)
   * [触摸屏校准](xi-tong-wei-hu/chu-mo-ping-xiao-zhun.md)
 * [系统日志](xi-tong-ri-zhi.md)
-* [附录1](fu-lu-1.md)
-* [附录2](fu-lu-2.md)
-* [附录3](fu-lu-3.md)
+
+## 自跑式纱嘴
+
+* [Untitled](zi-pao-shi-sha-zui/untitled.md)
 
