@@ -9,30 +9,33 @@
 右侧：系统内存   
 左、右侧支持文件输入、输出操作。
 
-### 文件操作支持多级目录结构 
+**文件操作支持多级目录结构** 
 
-1. 文件输入、输出   
-2. 花型选择   
-3. 花型删除   
-4. 参数备份   
-5. 其它功能   
-    5.1 工作参数输入   
-    5.2 工作参数输出   
-    5.3 系统参数输入   
-    5.4 系统参数输出   
-    5.5 总清内存花型   
-    5.6 花型总输出   
-    5.7 程序升级   
-    5.8 图形文件输入  
-    5.9 厂标文件输入   
-    5.10 分期付款   
-        5.10.1 分期付款设置   
-        5.10.2 成组数据导出   
-        5.10.3 成组解锁操作   
-        5.10.4 分期付款查询   
-        5.10.5 返回   
-    5.11 伺服参数维护   
-        5.11.1 伺服参数导出   
-        5.11.2 伺服参数导入   
-        5.11.3 返回
+[1. 功能按键说明](an-niu-shuo-ming.md)  
+[2. 文件输入](wen-jian-shu-ru.md)  
+[3. 文件输出](wen-jian-shu-chu.md)   
+[4. 花型选择 ](hua-xing-xuan-ze.md)  
+[5. 参数复制](can-shu-fu-zhi.md)  
+[6. 花型删除 ](hua-xing-shan-chu.md)  
+[7. 参数备份 ](can-shu-bei-fen.md)  
+[8. 其它功能 ](qi-ta-gong-neng/)  
+    [8.1 工作参数输入](qi-ta-gong-neng/gong-zuo-can-shu-shu-ru.md)   
+    [8.2 工作参数输出 ](qi-ta-gong-neng/gong-zuo-can-shu-shu-chu.md)  
+    [8.3 系统参数输入 ](qi-ta-gong-neng/xi-tong-can-shu-shu-ru.md)  
+    [8.4 系统参数输出 ](qi-ta-gong-neng/xi-tong-can-shu-shu-chu.md)  
+    [8.5 总清内存花型](qi-ta-gong-neng/zong-qing-nei-cun-hua-xing.md)   
+    [8.6 花型总输出](qi-ta-gong-neng/hua-xing-zong-shu-chu.md)   
+    [8.7 程序升级](qi-ta-gong-neng/cheng-xu-sheng-ji.md)   
+    [8.8 图形文件输入](qi-ta-gong-neng/tu-xing-wen-jian-shu-ru.md)  
+    [8.9 厂标文件输入](qi-ta-gong-neng/chang-biao-wen-jian-shu-ru.md)   
+    [8.10 分期付款 ](qi-ta-gong-neng/fen-qi-fu-kuan/)  
+        [8.10.1 分期付款设置](qi-ta-gong-neng/fen-qi-fu-kuan/fen-qi-fu-kuan-she-zhi.md)   
+        [8.10.2 成组数据导出 ](qi-ta-gong-neng/fen-qi-fu-kuan/cheng-zu-shu-ju-dao-chu.md)  
+       [ 8.10.3 成组解锁操作 ](qi-ta-gong-neng/fen-qi-fu-kuan/cheng-zu-jie-suo-cao-zuo.md)  
+        [8.10.4 分期付款查询](qi-ta-gong-neng/fen-qi-fu-kuan/fen-qi-fu-kuan-cha-xun.md)   
+        [8.10.5 返回 ](qi-ta-gong-neng/fen-qi-fu-kuan/fan-hui.md)  
+    [8.11 伺服参数维护](qi-ta-gong-neng/si-fu-can-shu-wei-hu/)   
+       [ 8.11.1 伺服参数导出](qi-ta-gong-neng/si-fu-can-shu-wei-hu/si-fu-can-shu-dao-chu.md)   
+        [8.11.2 伺服参数导入](qi-ta-gong-neng/si-fu-can-shu-wei-hu/si-fu-can-shu-dao-ru.md)   
+        [8.11.3 返回](qi-ta-gong-neng/si-fu-can-shu-wei-hu/fan-hui.md)
 
