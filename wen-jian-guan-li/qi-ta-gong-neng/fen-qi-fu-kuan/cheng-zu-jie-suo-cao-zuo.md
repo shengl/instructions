@@ -11,5 +11,5 @@ description: Group unlocking operation
 
 **说明**：
 
-**由恒强智控提供唯一解锁文件（MGX），一个MGX文件仅能解锁一个指定ID。**
+_由恒强智控提供唯一解锁文件（MGX），一个MGX文件仅能解锁一个指定ID。_
 
