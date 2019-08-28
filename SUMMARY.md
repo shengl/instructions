@@ -1,12 +1,12 @@
 # Table of contents
 
 * [简介](README.md)
-* [进入编织](bian-zhi-yun-hang/README.md)
-  * [分隔框-上](bian-zhi-yun-hang/fen-ge-kuang-shang.md)
-  * [分隔框-中](bian-zhi-yun-hang/fen-ge-kuang-zhong.md)
-  * [分隔框-下](bian-zhi-yun-hang/fen-ge-kuang-xia.md)
-  * [功能按键](bian-zhi-yun-hang/gong-neng-an-jian.md)
-  * [F7帮助](bian-zhi-yun-hang/f7-bang-zhu.md)
+* [进入编织](jin-ru-bian-zhi/README.md)
+  * [分隔框-上](jin-ru-bian-zhi/fen-ge-kuang-shang.md)
+  * [分隔框-中](jin-ru-bian-zhi/fen-ge-kuang-zhong.md)
+  * [分隔框-下](jin-ru-bian-zhi/fen-ge-kuang-xia.md)
+  * [功能按键](jin-ru-bian-zhi/gong-neng-an-jian.md)
+  * [F7帮助](jin-ru-bian-zhi/f7-bang-zhu.md)
 * [文件管理](wen-jian-guan-li/README.md)
   * [功能按钮说明](wen-jian-guan-li/an-niu-shuo-ming.md)
   * [文件输入](wen-jian-guan-li/wen-jian-shu-ru.md)
@@ -76,7 +76,8 @@
   * [触摸屏校准](xi-tong-wei-hu/chu-mo-ping-xiao-zhun.md)
 * [系统日志](xi-tong-ri-zhi.md)
 
-## 自跑式纱嘴
+## 纱嘴自检
 
-* [Untitled](zi-pao-shi-sha-zui/untitled.md)
+* [功能按键](sha-zui-zi-jian/untitled.md)
+* [信号测试](sha-zui-zi-jian/xin-hao-ce-shi.md)
 
