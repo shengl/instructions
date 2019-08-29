@@ -6,7 +6,7 @@
 
 **触摸**：单击编织运行界面 **详细**\[临时\] 按键，进入纱嘴信号测试界面
 
-![](../.gitbook/assets/zi-pao-shi-sha-zui.jpg)
+![](../.gitbook/assets/sha-zui-zi-jian.jpg)
 
 ## 速度
 
