@@ -81,3 +81,7 @@
 * [功能按键](sha-zui-zi-jian/untitled.md)
 * [信号测试](sha-zui-zi-jian/xin-hao-ce-shi.md)
 
+## 交叉式生克
+
+* [Untitled](jiao-cha-shi-sheng-ke/untitled.md)
+
