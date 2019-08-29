@@ -11,7 +11,7 @@
 
 **文件操作支持多级目录结构** 
 
-[1. 功能按键说明](an-niu-shuo-ming.md)  
+[1. 功能按键说明](gong-neng-an-niu-shuo-ming.md)  
 [2. 文件输入](wen-jian-shu-ru.md)  
 [3. 文件输出](wen-jian-shu-chu.md)   
 [4. 花型选择 ](hua-xing-xuan-ze.md)  

@@ -8,7 +8,7 @@
   * [功能按键](jin-ru-bian-zhi/gong-neng-an-jian.md)
   * [F7帮助](jin-ru-bian-zhi/f7-bang-zhu.md)
 * [文件管理](wen-jian-guan-li/README.md)
-  * [功能按钮说明](wen-jian-guan-li/an-niu-shuo-ming.md)
+  * [功能按钮说明](wen-jian-guan-li/gong-neng-an-niu-shuo-ming.md)
   * [文件输入](wen-jian-guan-li/wen-jian-shu-ru.md)
   * [文件输出](wen-jian-guan-li/wen-jian-shu-chu.md)
   * [花型选择](wen-jian-guan-li/hua-xing-xuan-ze.md)
@@ -78,7 +78,7 @@
 
 ## 纱嘴自检
 
-* [功能按键](sha-zui-zi-jian/untitled.md)
+* [功能按键](sha-zui-zi-jian/gong-neng-an-jian.md)
 * [信号测试](sha-zui-zi-jian/xin-hao-ce-shi.md)
 
 ## 交叉式生克
